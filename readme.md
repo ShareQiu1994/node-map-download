@@ -5,7 +5,7 @@
 > 源码 github 地址在此，记得点星：
 > https://github.com/ShareQiu1994/node-map-download
 
-> 本库参考了[nodemap_spider](https://github.com/brandonxiang/nodemap_spider)，这个库的灵感来自 nodemap_spider，这个库它同样 nodejs 实现，本库基于这个库的基础上做了一些修改。感谢 brandonxiang 大佬。
+> 本库灵感来自[nodemap_spider](https://github.com/brandonxiang/nodemap_spider)，它同样基于 nodejs 实现，基于这个库的基础上做了一些修改。感谢 brandonxiang 大佬。
 
 ## 用法
 
