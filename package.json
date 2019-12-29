@@ -1,0 +1,22 @@
+{
+  "name": "map-download",
+  "version": "1.0.0",
+  "description": "A map downloader based on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShareQiu1994/node-map-download.git"
+  },
+  "author": "shareQiu1994",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShareQiu1994/node-map-download/issues"
+  },
+  "homepage": "https://github.com/ShareQiu1994/node-map-download#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
